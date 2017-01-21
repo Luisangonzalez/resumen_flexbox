@@ -1,7 +1,6 @@
-# Guide of course [Cracking the case with Flexbox](https://www.codeschool.com/courses/cracking-the-case-with-flexbox)
+# Resumen Flexbox de [Cracking the case with Flexbox](https://www.codeschool.com/courses/cracking-the-case-with-flexbox)
 
 [Variaciones en flex](http://codepen.io/Luisangonzalez/pen/mOmNNM)
-
 
 [http:\/\/go.codeschool.com\/flexbox-spec](http://go.codeschool.com/flexbox-spec)
 
